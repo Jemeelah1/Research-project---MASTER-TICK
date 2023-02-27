@@ -1,39 +1,70 @@
-# Research-project---MASTER-TICK
-This Readme.md file contains details of how our TO-DO-LIST(Master Tick) will look like, begining everything on back-end to front-end.
+# Getting Started with Create React App
 
-This is an app that will help people to organise, prioritize and improve their work operations.
-It will set deadlines for each goal, increase productivity, mark off completed tasks, improve mental health and relieve stress.
-bare in mind this app will not eliminate procrastination.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Target Audience
-- age 18-60
-- both male and female can use it
-- can be used on mobile and web
-- dependent on English speaking countries
+## Available Scripts
 
-# Our team consists out of 3 members:
--Nomoya Magazi who is responsible for back-end
--Jemila Ibrahim who is responsible for front-end
--Stella Ojiuba who is responsible for implementation (Devops)
+In the project directory, you can run:
 
-For this website to be successful we will need certain tools and softwares.
+### `yarn start`
 
-# Technologies
-Libraries: python, flask, CROS and Json
-Languages: python , Javascript
-Framework: Javascript
-Platform: Trello
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Infrustructure
-we will be using a merging/brancing process, creating one repository ,which will be cloned by other members.
-Each member will work  on their own branch , git pull, add,commit and push to the master branch without causing any conflict.
-We plan on using a client-server deployment.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# BUILDING THE TO-DO-LIST
-# back-end
-if not already installed, install tools needed
--python version 3.5 or above
--Flask
--pip
--pytest(with pip) to test the flask application
--Flask-CORS
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
