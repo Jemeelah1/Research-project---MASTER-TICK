@@ -1,5 +1,5 @@
 import React from "react";
-import background from "./pngs/Taskboard.png";
+import background from "../pngs/Taskboard.png";
 
 export const taskboard = () => {
   return (
