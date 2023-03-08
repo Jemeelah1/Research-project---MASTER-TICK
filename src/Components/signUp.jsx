@@ -108,7 +108,7 @@ function signUp() {
               <button
                 className="bg-secondary rounded-md text-center shadow-md mt-6 py-4  w-80 px-64 mx-auto text-white items-center hover:underline"
                 type="submit"
-                onClick={() => setlogin(true)}
+                // onClick={() => setlogin(true)}
               >
                 {formStatus}
               </button>
